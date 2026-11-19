@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# 教材扫描页与提取文本（仅本地参考，不提交）
+pdfpage*.png
+pdftext.txt
